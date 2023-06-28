@@ -1,10 +1,2 @@
-/target/classes/simple/rest/Application.class
-/.idea/.gitignore
-/.idea/compiler.xml
-/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-/.idea/encodings.xml
-/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-/.idea/jarRepositories.xml
-/.idea/misc.xml
-/target/classes/simple/rest/SimpleController.class
-/.idea/vcs.xml
+target/
+.idea/
